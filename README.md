@@ -24,4 +24,5 @@ Conclusion:
 This project underscores the critical impact of departure and arrival delays on the aviation industry. By addressing these delays, airlines can significantly enhance profitability and customer satisfaction.
 
 For more detailed analysis and visualizations, please refer to the Skytime Insights.ipynb notebook.
-Tableau dashboard: [Flight Analysis Dashboard]([https://www.google.com](https://public.tableau.com/app/profile/batul.khambata6718/viz/USAFlightDelaysandCancellations/FlightDelaysCancellations)https://public.tableau.com/app/profile/batul.khambata6718/viz/USAFlightDelaysandCancellations/FlightDelaysCancellations)
+
+Tableau dashboard: [Flight Analysis Dashboard](https://public.tableau.com/app/profile/batul.khambata6718/viz/USAFlightDelaysandCancellations/FlightDelaysCancellations)
